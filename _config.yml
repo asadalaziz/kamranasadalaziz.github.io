@@ -1,0 +1,9 @@
+title: "Kamran Asad Al Aziz"
+email: your.email@example.com
+description: >- 
+  Personal portfolio showcasing data projects and resume.
+baseurl: ""
+url: "https://kamranasadalaziz.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
